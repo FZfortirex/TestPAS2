@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/leagueEnglish"
+        android:title="League English"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:id="@+id/leagueSpanyol"
+        android:title="League Spanyol"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
